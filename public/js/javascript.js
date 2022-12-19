@@ -1,5 +1,5 @@
-let chiffre1 = 9;
-let chiffre2 = 18;
+let chiffre1 = prompt("Entrez un chiffre");
+let chiffre2 = prompt("Entrez un second chiffre");
 
 let addition = chiffre1 + chiffre2;
 let soustraction = chiffre1 - chiffre2;
